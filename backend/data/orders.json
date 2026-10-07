@@ -1,0 +1,91 @@
+[
+  {
+    "token": "CC-2447",
+    "idempotencyKey": "idem-muy36l3f-zpf79i",
+    "memberId": "dev-v1ggrd6g",
+    "items": [
+      {
+        "dishId": 19,
+        "name": "Chilli Paneer",
+        "price": 68.5,
+        "veg": true,
+        "category": "Chinese",
+        "tags": [],
+        "qty": 1,
+        "lineTotal": 68.5
+      },
+      {
+        "dishId": 26,
+        "name": "Grilled Sandwich",
+        "price": 34,
+        "veg": true,
+        "category": "Snacks",
+        "tags": [],
+        "qty": 2,
+        "lineTotal": 68
+      },
+      {
+        "dishId": 29,
+        "name": "Pav Bhaji",
+        "price": 16.5,
+        "veg": true,
+        "category": "Snacks",
+        "tags": [
+          "new"
+        ],
+        "qty": 10,
+        "lineTotal": 165
+      },
+      {
+        "dishId": 30,
+        "name": "Vada Pav",
+        "price": 45,
+        "veg": true,
+        "category": "Snacks",
+        "tags": [],
+        "qty": 10,
+        "lineTotal": 450
+      }
+    ],
+    "subtotal": 751.5,
+    "comboDiscount": 0,
+    "couponCode": "BYTE10",
+    "couponDiscount": 40,
+    "pointsRedeemed": 0,
+    "pointsValue": 0,
+    "foodTotal": 711.5,
+    "packing": 20,
+    "rushSurcharge": 0,
+    "gst": 36.58,
+    "tip": 0,
+    "total": 768.08,
+    "pointsEarned": 35,
+    "hostelRoom": null,
+    "pickupSlot": "20:00",
+    "note": null,
+    "status": "ready",
+    "manual": false,
+    "rated": false,
+    "history": [
+      {
+        "status": "placed",
+        "at": "2026-10-07T12:32:05.709Z"
+      },
+      {
+        "status": "accepted",
+        "at": "2026-10-07T12:32:26.090Z"
+      },
+      {
+        "status": "preparing",
+        "at": "2026-10-07T12:32:56.108Z"
+      },
+      {
+        "status": "ready",
+        "at": "2026-10-07T12:33:56.141Z"
+      }
+    ],
+    "placedAt": "2026-10-07T12:32:05.709Z",
+    "updatedAt": "2026-10-07T12:33:56.141Z",
+    "etaMinutes": 22
+  }
+]
